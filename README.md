@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaya1920
-- 👀 I’m interested in creativity & exploring
-- 🌱 I’m currently learning C++ & DSA
-- 📫 Reach me VIA linedIn as jaya soni.
+- 👀 I’m interested in exploring new stuff
+- 🌱 I’m currently diving deep into cloud computing, eager to explore and master the intricacies of the cloud.
+- 📫 Reach me VIA linkedIn as jaya soni.
 
 <!---
 jaya1920/jaya1920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
